@@ -1,0 +1,22 @@
+{
+  "description": "MAGIC wheat",
+  "crosstype": "do",
+  "sep": ",",
+  "na.strings": ["-", "NC", "NA", "Null", ""],
+  "comment.char": "#",
+  "geno": "magic_geno.csv",
+  "genotypes": {
+    "1": "1",
+    "2": "2",
+    "3": "3"
+  },
+  "founder_geno": "magic_foundergeno.csv",
+  "gmap": "magic_gmap.csv",
+  "pmap": "magic_pmap.csv",
+  "pheno": "magic_pheno.csv",
+  "alleles": ["ALCHEMY",	"BROMPTON",	"CLAIRE", "HEREWARD",	"RIALTO",	"ROBIGUS",	"SOISSONS",	"XI.19"],
+  "founder_geno_transposed": true,
+  "x_chr": "X"
+  
+}
+
